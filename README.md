@@ -21,6 +21,7 @@
 
 ---
  
- <a href="https://github.com/FiammaMuscari/github-readme-stats" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FiammaMuscari&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="fiamma github stats" /></a><a href="https://github.com/FiammaMuscari/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a> 
+ |<a href="https://github.com/FiammaMuscari/github-readme-stats" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FiammaMuscari&show_icons=true&include_all_commits=true&theme=jolly&hide_border=true" alt="fiamma github stats" /></a>|<a href="https://github.com/FiammaMuscari/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a>|
+| ------------- | ------------- |
 
 
