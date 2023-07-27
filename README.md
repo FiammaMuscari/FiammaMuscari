@@ -21,7 +21,7 @@
 
 ---
  
- |<a href="https://github.com/FiammaMuscari/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a>|
+ <a href="https://github.com/FiammaMuscari/github-readme-stats" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a>
 
 
 
