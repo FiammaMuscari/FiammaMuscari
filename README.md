@@ -1,11 +1,16 @@
 
 ## ¡Hola! 🚀
-<a href="http://fiamma.vercel.app" target="blank"><img align="right" src="https://user-images.githubusercontent.com/75777030/198912000-6e9365b3-7f7e-4498-8932-1e898f451837.png" alt="portfolio" /></a> 
-### Bienvenid@ a mi github
+<a href="http://myblogspot.vercel.app" target="_blank">
+  <img align="right" 
+       src="https://github-production-user-asset-6210df.s3.amazonaws.com/75777030/293093528-b5a43ea5-b8a6-41bb-a034-b91bdc25b504.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231227T201054Z&X-Amz-Expires=300&X-Amz-Signature=dfbc193b3878e0c72866818cbbe7693a6848338cbaf99e97748617fec42b9938&X-Amz-SignedHeaders=host&actor_id=75777030&key_id=0&repo_id=403207569" 
+       alt="portfolio" 
+  />
+</a>
 
-🔭 Busco proyectos nuevos
+### Bienvenid@ a mi github!
 
-🌱 Siempre aprendiendo!
+
+🔭 🌱 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
