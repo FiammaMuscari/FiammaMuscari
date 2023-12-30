@@ -2,10 +2,11 @@
 ## ¡Hola! 🚀
 <a href="http://myblogspot.vercel.app" target="_blank">
   <img align="right" 
-       src="https://github-production-user-asset-6210df.s3.amazonaws.com/75777030/293093528-b5a43ea5-b8a6-41bb-a034-b91bdc25b504.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20231227%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231227T201054Z&X-Amz-Expires=300&X-Amz-Signature=dfbc193b3878e0c72866818cbbe7693a6848338cbaf99e97748617fec42b9938&X-Amz-SignedHeaders=host&actor_id=75777030&key_id=0&repo_id=403207569" 
+       src="https://github.com/FiammaMuscari/FiammaMuscari/assets/75777030/b285b367-3e15-4e15-b69c-eaf260a434bd" 
        alt="portfolio" 
   />
 </a>
+
 
 ### Bienvenid@ a mi github!
 
