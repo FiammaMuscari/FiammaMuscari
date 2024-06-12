@@ -2,7 +2,7 @@
 
 
 
- <a href="https://github.com/FiammaMuscari/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=jolly&hide_border=true" /></a>
+ <a href="https://github.com/FiammaMuscari/github-readme-stats" ><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FiammaMuscari&layout=compact&theme=material-palenight&hide_border=true" /></a>
 ###   I'm Fiamy, a fullstack dev building products on internet 🔭 🌱 
 Always cookin' 
   
@@ -19,6 +19,10 @@ Always cookin'
 [![Blogspot](https://img.shields.io/badge/Blog-8A2BE2?style=for-the-badge&logo=blogger&logoColor=white)](http://myblogspot.vercel.app)
 
 ![Twitch Status](https://img.shields.io/twitch/status/ninfuwu)
+
+
+ 
+
 
 
  
