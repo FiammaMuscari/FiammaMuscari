@@ -28,9 +28,7 @@ Always cookin'
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=FiammaMuscari&theme=material-palenight&hide_border=true&background=eeeee"/>
 </p>
 
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=FiammaMuscari&theme=tokyonight&title=MultiLanguage,Joined2020,Followers,Commits,Repositories,Stars,Experience,PullRequest"/>
-</p>
+
 
 
  
