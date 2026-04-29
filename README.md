@@ -38,7 +38,6 @@ Always cookin'
  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiamma-muscari/)
-[![X](https://img.shields.io/badge/X-8A2BE2?style=for-the-badge&logo=twitter&logoColor=Black)](https://www.twitter.com/__fiamy/)
 
 
 ![Twitch Status](https://img.shields.io/twitch/status/ninfuwu)
